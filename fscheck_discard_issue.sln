@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "testOptimized", "testOptimized\testOptimized.fsproj", "{F5E955DC-C5DC-496F-8A89-E6C3272C29F8}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "testUnoptimized", "testUnoptimized\testUnoptimized.fsproj", "{EF242F25-9949-4204-9447-C8718F37349F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E955DC-C5DC-496F-8A89-E6C3272C29F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E955DC-C5DC-496F-8A89-E6C3272C29F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E955DC-C5DC-496F-8A89-E6C3272C29F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E955DC-C5DC-496F-8A89-E6C3272C29F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF242F25-9949-4204-9447-C8718F37349F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF242F25-9949-4204-9447-C8718F37349F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF242F25-9949-4204-9447-C8718F37349F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF242F25-9949-4204-9447-C8718F37349F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E041B99-2C35-450B-905A-32481B998A8C}
+	EndGlobalSection
+EndGlobal
